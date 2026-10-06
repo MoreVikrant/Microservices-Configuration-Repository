@@ -1,0 +1,5 @@
+# Centralized Configuration
+app.message=Hello from Centralized Configuration
+
+# Eureka Service Registration
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
