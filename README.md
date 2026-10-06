@@ -9,10 +9,7 @@ The configuration is managed centrally through Spring Cloud Config Server, allow
 
 The project demonstrates:
 
-Centralized configuration management
-Spring Cloud Config Server
-Spring Cloud Gateway
-Manual API Gateway routing
-Multiple microservice configurations
-Environment-specific configuration
-Externalized application properties
+
+Eureka Service Registry Centralized Configuration
+Manual API Gateway routing Configuration 
+
