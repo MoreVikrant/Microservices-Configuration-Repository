@@ -10,6 +10,7 @@ The configuration is managed centrally through Spring Cloud Config Server, allow
 The project demonstrates:
 
 
-Eureka Service Registry Centralized Configuration
-Manual API Gateway routing Configuration 
+Eureka Service Registry Centralized Configuration. --> eureka.properties
+
+Manual API Gateway routing Configuration. --> gateway.properties
 
